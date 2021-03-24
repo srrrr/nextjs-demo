@@ -22,3 +22,9 @@ export default function FirstPost() {
     </Layout>
   );
 }
+
+// export async function getStaticProps(context) {
+//   return {
+//     notFound: true,  //404
+//   };
+// }
